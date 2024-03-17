@@ -10,12 +10,12 @@ jobs:
           uses: actions/checkout@v4
 
         - name: Welcome message
-          run: echo "i am faslan"
+          run: echo "i am faslan here"
 
         - name: List files
           run: ls
 
         - name: read file
           run: cat README.md
-          
+
           
